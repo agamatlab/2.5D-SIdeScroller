@@ -1,0 +1,6 @@
+*.psd filter=lfs diff=lfs merge=lfs -text
+*.png filter=lfs diff=lfs merge=lfs -text
+*.mp3 filter=lfs diff=lfs merge=lfs -text
+*.fbx filter=lfs diff=lfs merge=lfs -text
+Assets/TS_Medieval_Fantasy/Assets/Textures/Sky/Sky_Night.psd filter=lfs diff=lfs merge=lfs -text
+Assets/TS_Medieval_Fantasy/Demo/DEMO_v2.unity filter=lfs diff=lfs merge=lfs -text
